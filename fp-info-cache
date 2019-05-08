@@ -1,4 +1,4 @@
-19363524443329355
+19385173060539355
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -43882,6 +43882,97 @@ single digit 7 segemnt red/green LED
 0
 10
 10
+ESP8266.pretty
+ESP-01
+Module, ESP-8266, ESP-01, 8 pin
+Module ESP-8266 ESP8266
+0
+8
+8
+ESP8266.pretty
+ESP-03
+Module, ESP-8266, ESP-03, 14 pad, SMD
+Module ESP-8266 ESP8266
+0
+14
+14
+ESP8266.pretty
+ESP-06
+
+
+0
+20
+20
+ESP8266.pretty
+ESP-07S
+Module, ESP-8266, ESP-07S, 14 pad, SMD
+Module ESP-8266 ESP8266
+0
+16
+16
+ESP8266.pretty
+ESP-07v2
+Module, ESP-8266, ESP-07v2, 16 pad, SMD
+Module ESP-8266 ESP8266
+0
+16
+16
+ESP8266.pretty
+ESP-12
+Module, ESP-8266, ESP-12, 16 pad, SMD
+Module ESP-8266 ESP8266
+0
+16
+16
+ESP8266.pretty
+ESP-12E
+Module, ESP-8266, ESP-12, 16 pad, SMD
+Module ESP-8266 ESP8266
+0
+22
+22
+ESP8266.pretty
+ESP-12E_SMD
+Module, ESP-8266, ESP-12, 16 pad, SMD
+Module ESP-8266 ESP8266
+0
+22
+22
+ESP8266.pretty
+ESP-13-WROOM-02
+Module, ESP-8266, ESP-13-WROOM-02, 18 pad, SMD
+Module ESP-8266 ESP8266
+0
+19
+19
+ESP8266.pretty
+ESP-201
+Module, ESP-8266, ESP-201, 26 pin, through hole, 0.1 inch
+Module ESP-8266 ESP8266
+0
+26
+26
+ESP8266.pretty
+ESP12F-Devkit-V3
+
+
+0
+30
+30
+ESP8266.pretty
+NodeMCU-LoLinV3
+
+
+0
+30
+30
+ESP8266.pretty
+NodeMCU1.0(12-E)
+
+
+0
+30
+30
 Fiducial
 Fiducial_0.5mm_Mask1.5mm
 Circular Fiducial, 0.5mm bare copper, 1.5mm soldermask opening
@@ -44323,6 +44414,13 @@ mouse-bite-2mm-slot
 0
 0
 0
+footprint-lib
+MP2303,SOIC-8_3.9x4.9mm_P1.27mm,thermal_via
+8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf)
+SOIC 1.27
+0
+20
+8
 footprint-lib
 mpt_0,5%2f2-2,54
 2-way 2.54mm pitch terminal block, Phoenix MPT series
